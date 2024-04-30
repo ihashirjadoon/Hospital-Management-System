@@ -44,7 +44,7 @@ The repository is organized as follows:
 5. Access the website through a web browser.
 
 ```bash
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/ihashirjadoon/hospital-management-system.git
 
 ```
 
